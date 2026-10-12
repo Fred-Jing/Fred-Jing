@@ -12,7 +12,7 @@ noncanonical amino acids (ncAAs).
 
 - **Protein Design** — De novo design, structure prediction, and
   protein representation learning.
-- **Chemical Biology** — Genetic code expansion and engineering
+- **Chemical Biology** — Bioorthogonal Reaction and click chemistry, Genetic code expansion and engineering
   proteins with noncanonical amino acids.
 - **AI for Science** — Deep learning for biomolecular modeling,
   design, and experimental discovery.
